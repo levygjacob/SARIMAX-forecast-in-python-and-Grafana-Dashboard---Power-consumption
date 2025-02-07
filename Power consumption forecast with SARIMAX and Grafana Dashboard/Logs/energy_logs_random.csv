@@ -1,0 +1,398 @@
+Timestamp,Level,Message,Energy_Consumption,System_Status,Alert
+1985-01-01,WARN,Slight deviation in energy consumption,81.94,WARNING,None
+1985-02-01,INFO,Sensor malfunction detected,144.13,OK,None
+1985-03-01,CRITICAL,Major drop in energy consumption,96.83,OK,None
+1985-04-01,INFO,Major drop in energy consumption,54.77,OK,None
+1985-05-01,INFO,Data collected successfully,86.41,OK,None
+1985-06-01,INFO,Major drop in energy consumption,140.95,OK,Deviation Detected
+1985-07-01,INFO,Slight deviation in energy consumption,135.34,OK,Deviation Detected
+1985-08-01,INFO,Slight deviation in energy consumption,146.47,OK,Sensor Issue
+1985-09-01,INFO,Sensor malfunction detected,110.99,OK,Deviation Detected
+1985-10-01,INFO,Data collected successfully,99.33,OK,None
+1985-11-01,WARN,Major drop in energy consumption,97.44,WARNING,None
+1985-12-01,INFO,Major drop in energy consumption,77.92,OK,None
+1986-01-01,INFO,Sensor malfunction detected,83.27,OK,None
+1986-02-01,INFO,Slight deviation in energy consumption,62.73,OK,None
+1986-03-01,INFO,Slight deviation in energy consumption,139.12,ERROR,Deviation Detected
+1986-04-01,INFO,Data collected successfully,79.78,OK,Deviation Detected
+1986-05-01,INFO,Data collected successfully,109.57,ERROR,None
+1986-06-01,INFO,Data collected successfully,76.8,CRITICAL,Deviation Detected
+1986-07-01,INFO,Sensor malfunction detected,127.9,ERROR,None
+1986-08-01,INFO,Sensor malfunction detected,146.91,OK,Deviation Detected
+1986-09-01,ERROR,Data collected successfully,54.94,OK,Sensor Issue
+1986-10-01,WARN,Major drop in energy consumption,120.47,OK,Consumption Drop
+1986-11-01,WARN,Data collected successfully,143.18,WARNING,None
+1986-12-01,ERROR,Data collected successfully,58.11,CRITICAL,Deviation Detected
+1987-01-01,INFO,Sensor malfunction detected,56.15,OK,None
+1987-02-01,ERROR,Major drop in energy consumption,110.76,ERROR,None
+1987-03-01,INFO,Slight deviation in energy consumption,145.94,OK,None
+1987-04-01,WARN,Slight deviation in energy consumption,130.22,WARNING,Deviation Detected
+1987-05-01,INFO,Sensor malfunction detected,57.39,OK,Deviation Detected
+1987-06-01,INFO,Sensor malfunction detected,91.54,OK,None
+1987-07-01,INFO,Data collected successfully,117.52,OK,None
+1987-08-01,INFO,Slight deviation in energy consumption,81.66,WARNING,None
+1987-09-01,INFO,Sensor malfunction detected,126.0,OK,None
+1987-10-01,WARN,Sensor malfunction detected,106.42,OK,Sensor Issue
+1987-11-01,INFO,Data collected successfully,59.45,OK,None
+1987-12-01,INFO,Sensor malfunction detected,98.17,WARNING,None
+1988-01-01,CRITICAL,Slight deviation in energy consumption,141.61,OK,Consumption Drop
+1988-02-01,INFO,Sensor malfunction detected,109.73,WARNING,Deviation Detected
+1988-03-01,CRITICAL,Data collected successfully,135.89,WARNING,Deviation Detected
+1988-04-01,INFO,Slight deviation in energy consumption,99.08,OK,None
+1988-05-01,INFO,Sensor malfunction detected,80.17,WARNING,None
+1988-06-01,INFO,Major drop in energy consumption,100.96,OK,None
+1988-07-01,CRITICAL,Data collected successfully,144.79,OK,None
+1988-08-01,CRITICAL,Slight deviation in energy consumption,134.88,OK,Deviation Detected
+1988-09-01,INFO,Slight deviation in energy consumption,74.47,OK,Deviation Detected
+1988-10-01,INFO,Slight deviation in energy consumption,93.11,OK,None
+1988-11-01,INFO,Major drop in energy consumption,146.94,WARNING,None
+1988-12-01,CRITICAL,Slight deviation in energy consumption,100.36,OK,None
+1989-01-01,INFO,Major drop in energy consumption,89.15,ERROR,None
+1989-02-01,INFO,Data collected successfully,91.55,OK,Deviation Detected
+1989-03-01,INFO,Major drop in energy consumption,74.78,OK,None
+1989-04-01,CRITICAL,Data collected successfully,88.36,WARNING,None
+1989-05-01,INFO,Sensor malfunction detected,111.12,OK,None
+1989-06-01,INFO,Slight deviation in energy consumption,78.18,CRITICAL,Sensor Issue
+1989-07-01,INFO,Major drop in energy consumption,102.02,OK,None
+1989-08-01,INFO,Slight deviation in energy consumption,61.93,OK,None
+1989-09-01,INFO,Major drop in energy consumption,121.05,OK,Consumption Drop
+1989-10-01,ERROR,Sensor malfunction detected,141.84,OK,Sensor Issue
+1989-11-01,INFO,Slight deviation in energy consumption,91.75,OK,None
+1989-12-01,INFO,Sensor malfunction detected,56.23,OK,None
+1990-01-01,INFO,Major drop in energy consumption,98.72,OK,None
+1990-02-01,WARN,Slight deviation in energy consumption,59.09,ERROR,None
+1990-03-01,WARN,Data collected successfully,71.91,OK,None
+1990-04-01,CRITICAL,Major drop in energy consumption,99.44,ERROR,Deviation Detected
+1990-05-01,INFO,Data collected successfully,101.87,OK,Deviation Detected
+1990-06-01,INFO,Slight deviation in energy consumption,69.32,WARNING,None
+1990-07-01,WARN,Slight deviation in energy consumption,134.23,OK,None
+1990-08-01,INFO,Sensor malfunction detected,138.87,OK,None
+1990-09-01,INFO,Sensor malfunction detected,51.13,OK,None
+1990-10-01,INFO,Major drop in energy consumption,80.36,WARNING,None
+1990-11-01,INFO,Data collected successfully,57.91,ERROR,None
+1990-12-01,WARN,Data collected successfully,117.64,WARNING,None
+1991-01-01,INFO,Major drop in energy consumption,148.58,OK,None
+1991-02-01,INFO,Major drop in energy consumption,131.99,OK,Sensor Issue
+1991-03-01,WARN,Sensor malfunction detected,139.83,OK,None
+1991-04-01,INFO,Major drop in energy consumption,69.35,CRITICAL,Deviation Detected
+1991-05-01,INFO,Data collected successfully,81.6,OK,None
+1991-06-01,INFO,Data collected successfully,106.06,OK,None
+1991-07-01,INFO,Slight deviation in energy consumption,125.51,OK,Consumption Drop
+1991-08-01,ERROR,Data collected successfully,141.53,WARNING,None
+1991-09-01,ERROR,Data collected successfully,80.93,OK,None
+1991-10-01,INFO,Data collected successfully,57.77,WARNING,Deviation Detected
+1991-11-01,INFO,Data collected successfully,136.43,OK,None
+1991-12-01,INFO,Slight deviation in energy consumption,94.64,OK,None
+1992-01-01,CRITICAL,Data collected successfully,116.59,OK,None
+1992-02-01,WARN,Sensor malfunction detected,126.8,OK,None
+1992-03-01,WARN,Major drop in energy consumption,105.71,OK,None
+1992-04-01,INFO,Slight deviation in energy consumption,129.1,OK,None
+1992-05-01,WARN,Major drop in energy consumption,101.77,ERROR,None
+1992-06-01,INFO,Major drop in energy consumption,56.69,OK,None
+1992-07-01,INFO,Slight deviation in energy consumption,124.07,OK,Sensor Issue
+1992-08-01,INFO,Slight deviation in energy consumption,126.99,OK,None
+1992-09-01,ERROR,Slight deviation in energy consumption,57.75,ERROR,None
+1992-10-01,INFO,Data collected successfully,118.13,OK,None
+1992-11-01,INFO,Major drop in energy consumption,144.9,OK,None
+1992-12-01,INFO,Major drop in energy consumption,87.91,OK,Sensor Issue
+1993-01-01,WARN,Sensor malfunction detected,137.45,OK,None
+1993-02-01,ERROR,Data collected successfully,137.01,OK,None
+1993-03-01,INFO,Sensor malfunction detected,110.44,OK,None
+1993-04-01,INFO,Data collected successfully,67.1,OK,None
+1993-05-01,WARN,Data collected successfully,134.98,OK,None
+1993-06-01,INFO,Major drop in energy consumption,117.84,OK,None
+1993-07-01,ERROR,Sensor malfunction detected,129.32,ERROR,Deviation Detected
+1993-08-01,INFO,Sensor malfunction detected,93.46,OK,None
+1993-09-01,WARN,Data collected successfully,55.23,WARNING,None
+1993-10-01,INFO,Sensor malfunction detected,87.75,OK,None
+1993-11-01,ERROR,Data collected successfully,111.99,OK,None
+1993-12-01,WARN,Sensor malfunction detected,135.92,OK,None
+1994-01-01,INFO,Data collected successfully,140.55,OK,None
+1994-02-01,INFO,Sensor malfunction detected,148.69,OK,Deviation Detected
+1994-03-01,ERROR,Slight deviation in energy consumption,91.0,WARNING,None
+1994-04-01,ERROR,Data collected successfully,123.41,OK,Deviation Detected
+1994-05-01,INFO,Data collected successfully,103.59,OK,None
+1994-06-01,INFO,Major drop in energy consumption,112.85,OK,Deviation Detected
+1994-07-01,CRITICAL,Sensor malfunction detected,69.31,OK,None
+1994-08-01,INFO,Slight deviation in energy consumption,130.13,OK,None
+1994-09-01,INFO,Slight deviation in energy consumption,83.33,OK,None
+1994-10-01,INFO,Slight deviation in energy consumption,52.21,OK,None
+1994-11-01,INFO,Slight deviation in energy consumption,52.28,OK,None
+1994-12-01,INFO,Sensor malfunction detected,97.06,OK,None
+1995-01-01,WARN,Slight deviation in energy consumption,133.61,OK,None
+1995-02-01,CRITICAL,Slight deviation in energy consumption,62.31,OK,None
+1995-03-01,INFO,Major drop in energy consumption,123.45,OK,None
+1995-04-01,INFO,Major drop in energy consumption,149.51,WARNING,None
+1995-05-01,CRITICAL,Sensor malfunction detected,105.43,OK,Consumption Drop
+1995-06-01,INFO,Major drop in energy consumption,128.16,OK,None
+1995-07-01,WARN,Slight deviation in energy consumption,119.03,OK,None
+1995-08-01,INFO,Slight deviation in energy consumption,90.81,CRITICAL,None
+1995-09-01,INFO,Data collected successfully,125.55,WARNING,None
+1995-10-01,INFO,Data collected successfully,136.47,OK,Deviation Detected
+1995-11-01,INFO,Slight deviation in energy consumption,55.67,OK,None
+1995-12-01,INFO,Data collected successfully,63.52,ERROR,None
+1996-01-01,INFO,Data collected successfully,86.51,OK,Deviation Detected
+1996-02-01,INFO,Data collected successfully,79.46,WARNING,None
+1996-03-01,WARN,Data collected successfully,111.68,OK,None
+1996-04-01,INFO,Major drop in energy consumption,66.91,WARNING,None
+1996-05-01,INFO,Major drop in energy consumption,127.17,WARNING,None
+1996-06-01,WARN,Major drop in energy consumption,53.03,OK,None
+1996-07-01,CRITICAL,Sensor malfunction detected,145.06,WARNING,Consumption Drop
+1996-08-01,INFO,Major drop in energy consumption,94.11,OK,None
+1996-09-01,CRITICAL,Data collected successfully,52.48,OK,None
+1996-10-01,INFO,Major drop in energy consumption,130.83,WARNING,Consumption Drop
+1996-11-01,WARN,Sensor malfunction detected,142.27,OK,None
+1996-12-01,INFO,Data collected successfully,130.96,OK,None
+1997-01-01,INFO,Data collected successfully,53.21,OK,None
+1997-02-01,INFO,Sensor malfunction detected,67.14,OK,Consumption Drop
+1997-03-01,INFO,Major drop in energy consumption,143.48,OK,Sensor Issue
+1997-04-01,INFO,Data collected successfully,72.46,WARNING,Deviation Detected
+1997-05-01,INFO,Sensor malfunction detected,80.23,OK,None
+1997-06-01,ERROR,Slight deviation in energy consumption,69.55,OK,None
+1997-07-01,INFO,Data collected successfully,66.18,OK,Sensor Issue
+1997-08-01,WARN,Slight deviation in energy consumption,105.39,OK,None
+1997-09-01,INFO,Major drop in energy consumption,124.33,OK,None
+1997-10-01,INFO,Sensor malfunction detected,51.19,WARNING,None
+1997-11-01,INFO,Data collected successfully,66.31,ERROR,Sensor Issue
+1997-12-01,WARN,Slight deviation in energy consumption,115.45,OK,None
+1998-01-01,INFO,Major drop in energy consumption,64.82,ERROR,None
+1998-02-01,WARN,Sensor malfunction detected,104.3,OK,Consumption Drop
+1998-03-01,INFO,Major drop in energy consumption,109.36,OK,None
+1998-04-01,ERROR,Slight deviation in energy consumption,135.09,OK,None
+1998-05-01,WARN,Major drop in energy consumption,74.19,OK,Deviation Detected
+1998-06-01,WARN,Sensor malfunction detected,50.62,OK,None
+1998-07-01,ERROR,Data collected successfully,103.39,OK,None
+1998-08-01,INFO,Sensor malfunction detected,126.09,OK,Deviation Detected
+1998-09-01,INFO,Major drop in energy consumption,59.14,OK,Deviation Detected
+1998-10-01,INFO,Slight deviation in energy consumption,91.02,OK,Consumption Drop
+1998-11-01,INFO,Major drop in energy consumption,120.0,ERROR,None
+1998-12-01,WARN,Slight deviation in energy consumption,68.63,OK,None
+1999-01-01,ERROR,Data collected successfully,64.54,OK,None
+1999-02-01,INFO,Sensor malfunction detected,131.15,OK,Sensor Issue
+1999-03-01,INFO,Data collected successfully,99.95,OK,None
+1999-04-01,CRITICAL,Slight deviation in energy consumption,121.9,OK,Deviation Detected
+1999-05-01,WARN,Data collected successfully,70.45,WARNING,Consumption Drop
+1999-06-01,INFO,Major drop in energy consumption,146.93,OK,Sensor Issue
+1999-07-01,INFO,Data collected successfully,104.03,CRITICAL,None
+1999-08-01,INFO,Data collected successfully,102.55,WARNING,None
+1999-09-01,ERROR,Data collected successfully,144.51,OK,None
+1999-10-01,INFO,Sensor malfunction detected,76.99,WARNING,Deviation Detected
+1999-11-01,INFO,Sensor malfunction detected,125.03,OK,None
+1999-12-01,INFO,Data collected successfully,64.17,OK,None
+2000-01-01,WARN,Sensor malfunction detected,112.2,OK,None
+2000-02-01,INFO,Data collected successfully,88.6,OK,Consumption Drop
+2000-03-01,WARN,Sensor malfunction detected,71.22,OK,None
+2000-04-01,INFO,Data collected successfully,144.59,WARNING,None
+2000-05-01,INFO,Data collected successfully,71.48,OK,None
+2000-06-01,INFO,Data collected successfully,94.23,OK,None
+2000-07-01,INFO,Sensor malfunction detected,133.37,OK,Sensor Issue
+2000-08-01,INFO,Sensor malfunction detected,88.36,OK,None
+2000-09-01,INFO,Data collected successfully,76.06,OK,None
+2000-10-01,ERROR,Sensor malfunction detected,73.82,OK,Deviation Detected
+2000-11-01,WARN,Slight deviation in energy consumption,56.27,OK,None
+2000-12-01,WARN,Sensor malfunction detected,59.48,OK,Consumption Drop
+2001-01-01,INFO,Major drop in energy consumption,102.34,OK,None
+2001-02-01,INFO,Slight deviation in energy consumption,72.95,OK,None
+2001-03-01,INFO,Data collected successfully,57.09,OK,None
+2001-04-01,INFO,Data collected successfully,106.88,OK,None
+2001-05-01,INFO,Data collected successfully,98.19,OK,None
+2001-06-01,ERROR,Major drop in energy consumption,118.62,ERROR,None
+2001-07-01,INFO,Slight deviation in energy consumption,103.67,WARNING,None
+2001-08-01,WARN,Slight deviation in energy consumption,104.61,WARNING,None
+2001-09-01,INFO,Major drop in energy consumption,104.37,OK,Sensor Issue
+2001-10-01,INFO,Major drop in energy consumption,88.41,OK,Consumption Drop
+2001-11-01,INFO,Sensor malfunction detected,71.56,OK,Deviation Detected
+2001-12-01,INFO,Data collected successfully,56.88,OK,None
+2002-01-01,INFO,Sensor malfunction detected,98.25,ERROR,None
+2002-02-01,INFO,Data collected successfully,145.59,OK,None
+2002-03-01,INFO,Data collected successfully,92.83,WARNING,None
+2002-04-01,ERROR,Sensor malfunction detected,110.08,OK,None
+2002-05-01,INFO,Slight deviation in energy consumption,79.65,WARNING,None
+2002-06-01,INFO,Major drop in energy consumption,69.33,OK,None
+2002-07-01,INFO,Sensor malfunction detected,88.37,OK,None
+2002-08-01,INFO,Slight deviation in energy consumption,97.4,OK,None
+2002-09-01,CRITICAL,Sensor malfunction detected,146.23,OK,None
+2002-10-01,INFO,Data collected successfully,92.92,OK,None
+2002-11-01,INFO,Major drop in energy consumption,90.46,WARNING,None
+2002-12-01,WARN,Data collected successfully,143.97,OK,None
+2003-01-01,INFO,Slight deviation in energy consumption,106.03,OK,Consumption Drop
+2003-02-01,INFO,Slight deviation in energy consumption,103.62,OK,None
+2003-03-01,WARN,Major drop in energy consumption,59.13,OK,None
+2003-04-01,INFO,Slight deviation in energy consumption,137.51,WARNING,None
+2003-05-01,INFO,Major drop in energy consumption,140.31,OK,None
+2003-06-01,ERROR,Slight deviation in energy consumption,111.45,ERROR,Sensor Issue
+2003-07-01,INFO,Sensor malfunction detected,96.56,ERROR,None
+2003-08-01,INFO,Major drop in energy consumption,119.64,OK,None
+2003-09-01,INFO,Data collected successfully,146.75,WARNING,None
+2003-10-01,INFO,Data collected successfully,79.86,OK,None
+2003-11-01,INFO,Sensor malfunction detected,129.85,OK,None
+2003-12-01,ERROR,Major drop in energy consumption,74.49,CRITICAL,None
+2004-01-01,ERROR,Sensor malfunction detected,106.0,OK,None
+2004-02-01,WARN,Sensor malfunction detected,144.17,CRITICAL,None
+2004-03-01,INFO,Sensor malfunction detected,132.81,OK,Sensor Issue
+2004-04-01,INFO,Major drop in energy consumption,89.72,OK,None
+2004-05-01,INFO,Data collected successfully,90.0,OK,None
+2004-06-01,INFO,Sensor malfunction detected,123.04,OK,None
+2004-07-01,INFO,Data collected successfully,149.64,OK,None
+2004-08-01,INFO,Major drop in energy consumption,133.73,OK,None
+2004-09-01,INFO,Major drop in energy consumption,119.12,OK,None
+2004-10-01,WARN,Slight deviation in energy consumption,79.67,OK,Sensor Issue
+2004-11-01,INFO,Sensor malfunction detected,56.23,OK,None
+2004-12-01,WARN,Slight deviation in energy consumption,108.95,OK,Deviation Detected
+2005-01-01,CRITICAL,Major drop in energy consumption,92.25,OK,None
+2005-02-01,INFO,Data collected successfully,122.2,OK,None
+2005-03-01,INFO,Sensor malfunction detected,58.33,OK,None
+2005-04-01,INFO,Data collected successfully,126.85,OK,None
+2005-05-01,CRITICAL,Sensor malfunction detected,65.79,OK,None
+2005-06-01,INFO,Data collected successfully,51.52,OK,None
+2005-07-01,INFO,Major drop in energy consumption,127.16,WARNING,None
+2005-08-01,INFO,Sensor malfunction detected,146.17,OK,None
+2005-09-01,INFO,Sensor malfunction detected,76.62,OK,Sensor Issue
+2005-10-01,INFO,Slight deviation in energy consumption,149.02,OK,None
+2005-11-01,CRITICAL,Major drop in energy consumption,143.28,OK,None
+2005-12-01,INFO,Data collected successfully,60.78,OK,None
+2006-01-01,ERROR,Slight deviation in energy consumption,85.25,OK,None
+2006-02-01,WARN,Sensor malfunction detected,57.77,OK,None
+2006-03-01,INFO,Major drop in energy consumption,147.29,WARNING,None
+2006-04-01,INFO,Slight deviation in energy consumption,128.28,OK,Sensor Issue
+2006-05-01,INFO,Data collected successfully,134.22,OK,Deviation Detected
+2006-06-01,WARN,Major drop in energy consumption,79.76,OK,Sensor Issue
+2006-07-01,ERROR,Data collected successfully,123.1,OK,None
+2006-08-01,ERROR,Data collected successfully,87.0,OK,None
+2006-09-01,INFO,Sensor malfunction detected,58.15,OK,None
+2006-10-01,INFO,Slight deviation in energy consumption,70.55,OK,None
+2006-11-01,INFO,Sensor malfunction detected,121.07,WARNING,None
+2006-12-01,INFO,Data collected successfully,85.92,OK,None
+2007-01-01,CRITICAL,Data collected successfully,94.87,OK,None
+2007-02-01,CRITICAL,Sensor malfunction detected,98.51,OK,Consumption Drop
+2007-03-01,INFO,Data collected successfully,136.85,OK,None
+2007-04-01,ERROR,Slight deviation in energy consumption,68.65,OK,None
+2007-05-01,ERROR,Major drop in energy consumption,111.69,WARNING,Deviation Detected
+2007-06-01,INFO,Data collected successfully,61.62,OK,None
+2007-07-01,ERROR,Sensor malfunction detected,54.8,ERROR,None
+2007-08-01,WARN,Major drop in energy consumption,132.9,OK,None
+2007-09-01,INFO,Slight deviation in energy consumption,66.89,CRITICAL,Sensor Issue
+2007-10-01,INFO,Major drop in energy consumption,101.9,OK,None
+2007-11-01,INFO,Sensor malfunction detected,102.33,OK,Deviation Detected
+2007-12-01,INFO,Major drop in energy consumption,143.84,OK,None
+2008-01-01,INFO,Major drop in energy consumption,149.16,OK,None
+2008-02-01,INFO,Major drop in energy consumption,137.41,OK,None
+2008-03-01,INFO,Major drop in energy consumption,113.49,OK,None
+2008-04-01,INFO,Major drop in energy consumption,93.8,OK,None
+2008-05-01,CRITICAL,Slight deviation in energy consumption,53.34,OK,Sensor Issue
+2008-06-01,INFO,Slight deviation in energy consumption,78.57,OK,None
+2008-07-01,WARN,Sensor malfunction detected,70.13,OK,None
+2008-08-01,WARN,Slight deviation in energy consumption,92.76,OK,None
+2008-09-01,INFO,Sensor malfunction detected,127.34,OK,None
+2008-10-01,ERROR,Major drop in energy consumption,132.44,OK,Deviation Detected
+2008-11-01,INFO,Major drop in energy consumption,56.8,OK,None
+2008-12-01,INFO,Data collected successfully,66.08,WARNING,Sensor Issue
+2009-01-01,WARN,Data collected successfully,121.7,OK,Sensor Issue
+2009-02-01,INFO,Major drop in energy consumption,141.39,OK,Sensor Issue
+2009-03-01,INFO,Sensor malfunction detected,55.31,OK,None
+2009-04-01,ERROR,Sensor malfunction detected,98.95,OK,None
+2009-05-01,WARN,Major drop in energy consumption,141.45,OK,Consumption Drop
+2009-06-01,INFO,Major drop in energy consumption,51.92,OK,None
+2009-07-01,INFO,Major drop in energy consumption,78.81,CRITICAL,Deviation Detected
+2009-08-01,WARN,Slight deviation in energy consumption,148.8,OK,None
+2009-09-01,WARN,Slight deviation in energy consumption,58.24,OK,None
+2009-10-01,ERROR,Major drop in energy consumption,97.54,OK,None
+2009-11-01,INFO,Major drop in energy consumption,53.39,OK,Deviation Detected
+2009-12-01,INFO,Major drop in energy consumption,76.88,OK,None
+2010-01-01,INFO,Data collected successfully,108.55,WARNING,None
+2010-02-01,WARN,Major drop in energy consumption,102.83,ERROR,Deviation Detected
+2010-03-01,ERROR,Sensor malfunction detected,100.0,OK,None
+2010-04-01,INFO,Major drop in energy consumption,55.47,OK,None
+2010-05-01,INFO,Sensor malfunction detected,92.32,OK,None
+2010-06-01,INFO,Slight deviation in energy consumption,71.8,WARNING,None
+2010-07-01,INFO,Major drop in energy consumption,102.53,OK,None
+2010-08-01,ERROR,Major drop in energy consumption,123.31,OK,None
+2010-09-01,WARN,Sensor malfunction detected,91.02,OK,None
+2010-10-01,INFO,Data collected successfully,144.89,OK,None
+2010-11-01,ERROR,Data collected successfully,98.13,OK,None
+2010-12-01,INFO,Data collected successfully,119.21,CRITICAL,None
+2011-01-01,ERROR,Sensor malfunction detected,82.69,CRITICAL,None
+2011-02-01,WARN,Data collected successfully,123.29,ERROR,Deviation Detected
+2011-03-01,INFO,Data collected successfully,113.71,OK,Consumption Drop
+2011-04-01,WARN,Slight deviation in energy consumption,96.07,OK,Deviation Detected
+2011-05-01,INFO,Major drop in energy consumption,70.85,OK,Deviation Detected
+2011-06-01,INFO,Slight deviation in energy consumption,122.81,OK,Deviation Detected
+2011-07-01,INFO,Data collected successfully,100.12,OK,None
+2011-08-01,INFO,Major drop in energy consumption,89.94,OK,Sensor Issue
+2011-09-01,INFO,Sensor malfunction detected,81.25,OK,None
+2011-10-01,ERROR,Major drop in energy consumption,112.91,OK,None
+2011-11-01,ERROR,Slight deviation in energy consumption,68.48,WARNING,None
+2011-12-01,CRITICAL,Major drop in energy consumption,113.32,OK,Deviation Detected
+2012-01-01,INFO,Major drop in energy consumption,109.88,ERROR,None
+2012-02-01,INFO,Slight deviation in energy consumption,83.68,OK,None
+2012-03-01,ERROR,Major drop in energy consumption,86.91,OK,None
+2012-04-01,INFO,Sensor malfunction detected,53.35,CRITICAL,Deviation Detected
+2012-05-01,INFO,Data collected successfully,80.81,OK,None
+2012-06-01,INFO,Sensor malfunction detected,116.05,OK,None
+2012-07-01,INFO,Major drop in energy consumption,116.73,WARNING,None
+2012-08-01,INFO,Sensor malfunction detected,126.92,OK,Deviation Detected
+2012-09-01,INFO,Sensor malfunction detected,74.77,OK,Deviation Detected
+2012-10-01,INFO,Major drop in energy consumption,75.23,OK,None
+2012-11-01,INFO,Data collected successfully,141.93,WARNING,Sensor Issue
+2012-12-01,WARN,Sensor malfunction detected,64.86,OK,None
+2013-01-01,INFO,Major drop in energy consumption,101.59,OK,None
+2013-02-01,INFO,Major drop in energy consumption,61.39,OK,None
+2013-03-01,INFO,Data collected successfully,95.76,WARNING,None
+2013-04-01,WARN,Data collected successfully,85.43,OK,None
+2013-05-01,WARN,Data collected successfully,111.65,WARNING,Deviation Detected
+2013-06-01,WARN,Data collected successfully,59.13,OK,Consumption Drop
+2013-07-01,INFO,Data collected successfully,91.92,CRITICAL,None
+2013-08-01,CRITICAL,Slight deviation in energy consumption,85.32,OK,None
+2013-09-01,WARN,Slight deviation in energy consumption,63.39,OK,None
+2013-10-01,INFO,Slight deviation in energy consumption,115.54,OK,None
+2013-11-01,INFO,Data collected successfully,54.37,ERROR,None
+2013-12-01,INFO,Sensor malfunction detected,145.97,WARNING,None
+2014-01-01,INFO,Slight deviation in energy consumption,70.65,OK,None
+2014-02-01,INFO,Major drop in energy consumption,102.11,WARNING,Sensor Issue
+2014-03-01,INFO,Sensor malfunction detected,57.85,OK,None
+2014-04-01,INFO,Sensor malfunction detected,52.57,OK,None
+2014-05-01,INFO,Slight deviation in energy consumption,93.94,OK,None
+2014-06-01,INFO,Slight deviation in energy consumption,143.98,OK,Deviation Detected
+2014-07-01,INFO,Slight deviation in energy consumption,70.47,OK,None
+2014-08-01,INFO,Data collected successfully,79.96,ERROR,None
+2014-09-01,WARN,Sensor malfunction detected,87.3,OK,None
+2014-10-01,INFO,Sensor malfunction detected,60.01,ERROR,None
+2014-11-01,WARN,Sensor malfunction detected,66.16,OK,None
+2014-12-01,INFO,Data collected successfully,149.82,OK,None
+2015-01-01,CRITICAL,Sensor malfunction detected,55.15,ERROR,None
+2015-02-01,CRITICAL,Data collected successfully,93.87,OK,None
+2015-03-01,INFO,Sensor malfunction detected,59.89,OK,None
+2015-04-01,ERROR,Major drop in energy consumption,99.51,OK,None
+2015-05-01,INFO,Data collected successfully,108.51,CRITICAL,None
+2015-06-01,INFO,Sensor malfunction detected,131.64,OK,None
+2015-07-01,INFO,Major drop in energy consumption,81.57,OK,Deviation Detected
+2015-08-01,INFO,Sensor malfunction detected,69.05,OK,Deviation Detected
+2015-09-01,INFO,Slight deviation in energy consumption,124.24,OK,Consumption Drop
+2015-10-01,INFO,Slight deviation in energy consumption,99.69,OK,None
+2015-11-01,INFO,Sensor malfunction detected,96.05,OK,Sensor Issue
+2015-12-01,INFO,Major drop in energy consumption,116.58,ERROR,None
+2016-01-01,INFO,Slight deviation in energy consumption,89.3,WARNING,None
+2016-02-01,ERROR,Major drop in energy consumption,117.95,OK,None
+2016-03-01,INFO,Sensor malfunction detected,96.0,ERROR,None
+2016-04-01,INFO,Slight deviation in energy consumption,128.63,OK,None
+2016-05-01,INFO,Slight deviation in energy consumption,65.23,ERROR,None
+2016-06-01,WARN,Major drop in energy consumption,75.61,OK,None
+2016-07-01,WARN,Data collected successfully,84.18,OK,None
+2016-08-01,INFO,Data collected successfully,128.83,OK,None
+2016-09-01,ERROR,Major drop in energy consumption,142.12,OK,Deviation Detected
+2016-10-01,INFO,Slight deviation in energy consumption,110.55,OK,Sensor Issue
+2016-11-01,INFO,Sensor malfunction detected,63.97,OK,Sensor Issue
+2016-12-01,ERROR,Data collected successfully,89.63,OK,None
+2017-01-01,WARN,Sensor malfunction detected,68.98,ERROR,None
+2017-02-01,ERROR,Major drop in energy consumption,69.24,OK,None
+2017-03-01,INFO,Sensor malfunction detected,110.98,OK,None
+2017-04-01,WARN,Slight deviation in energy consumption,88.65,OK,Deviation Detected
+2017-05-01,INFO,Major drop in energy consumption,131.5,OK,Deviation Detected
+2017-06-01,INFO,Slight deviation in energy consumption,83.72,OK,None
+2017-07-01,WARN,Major drop in energy consumption,77.08,OK,Sensor Issue
+2017-08-01,INFO,Major drop in energy consumption,136.84,OK,None
+2017-09-01,WARN,Sensor malfunction detected,93.23,OK,None
+2017-10-01,ERROR,Sensor malfunction detected,141.23,OK,None
+2017-11-01,WARN,Data collected successfully,92.71,OK,None
+2017-12-01,INFO,Slight deviation in energy consumption,145.3,OK,Deviation Detected
+2018-01-01,INFO,Data collected successfully,101.9,OK,None
